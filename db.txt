@@ -1,0 +1,6 @@
+> db.users.find();
+{ "_id" : ObjectId("5d14fd62eca4263eb346f0c6"), "name" : "mongo is the name", "description" : "MongoDB is no sql database", "mobile" : "12345678" }
+
+
+> db.product.find();
+{ "_id" : ObjectId("5d151c94eca4263eb346f0c7"), "name" : "mongo product", "description" : "MongoDB product desc", "user_id" : ObjectId("5d14fd62eca4263eb346f0c6") }
