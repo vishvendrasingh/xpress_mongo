@@ -1,6 +1,9 @@
 Introduction
 -------------
-NodeJs & Express.js with **Repository Design pattern** with working example. More clear explanation is shown in this diagram [Diagram](https://github.com/vishvendrasingh/xpress_mongo/blob/master/Architecture.pdf)
+NodeJs & Express.js with **Repository Design pattern** with working example. More clear explanation is shown in this diagram -
+
+![Basic Architecture](https://github.com/vishvendrasingh/xpress_mongo/raw/master/basic_architecture.png)
+
 
 Installation
 -------------
